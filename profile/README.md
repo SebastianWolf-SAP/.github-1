@@ -14,7 +14,7 @@ Building a vibrant and collaborative ecosystem that empowers developers to deliv
 
 * [**OpenUI5**](https://sdk.openui5.org/), the heart of it all! The open-source framework for enterprise-ready web applications.
 * [**UI5 Web Components**](https://ui5.github.io/webcomponents/), modern, reusable UI components, based on web standards, developed from OpenUI5 but framework-agnostic
-* [**UI5 Tooling**](https://sap.github.io/ui5-tooling/), the toolkit you need for your local development with OpenUI5 (and SAPUI5)
+* [**UI5 CLI**](https://ui5.github.io/cli/), the tools you need for your local development with OpenUI5 (and SAPUI5)
 
 <!--
 Besides our key projects you will find here also official documentation and relevant learning content:
