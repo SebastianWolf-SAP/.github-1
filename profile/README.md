@@ -1,6 +1,6 @@
 # :fire: Welcome to the UI5 project on GitHub
 
-Welcome to the official open-source home of OpenUI5 and related projects including the UI5 Tooling and the framework-agnostic UI5 Web Components.
+Welcome to the official open-source home of OpenUI5 and related projects including the UI5 CLI and the framework-agnostic UI5 Web Components.
 
 ## :globe_with_meridians: What is UI5?
 
